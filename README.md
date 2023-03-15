@@ -13,4 +13,4 @@ Estudante de Engenharia de Computação no CefetMG em formação. 🧑‍💻
             
 </div>
 
-<h4>Confira meu Portfólio  <a target="_blank" href="https://lucassousaal.github.io/Portfolio/">clicando aqui.</a></h4>
+<h4>Confira meu Portfólio  <a href="https://lucassousaal.github.io/Portfolio/" target="_blank">clicando aqui.</a></h4>
